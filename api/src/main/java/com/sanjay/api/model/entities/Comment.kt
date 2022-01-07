@@ -1,4 +1,4 @@
-package com.sanjay.api.model
+package com.sanjay.api.model.entities
 
 
 import com.squareup.moshi.Json
